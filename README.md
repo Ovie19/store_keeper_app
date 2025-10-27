@@ -19,9 +19,9 @@ A modern Android app that helps users manage their product inventory locally.
 
 ## 📸 Screenshots
 
-| Home | Login | Settings |
-|------|--------|-----------|
-| <img src="screenshot/flutter_01.png" width="250"/> | <img src="screenshot/flutter_02.png" width="250"/> | <img src="screenshot/flutter_03.png" width="250"/> |
+![App Screenshot](screenshot/flutter_01.png)
+
+
 
 
 
