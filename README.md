@@ -1,14 +1,14 @@
 # 📱 Store Keeper Application
 
-A modern Android app that helps users [brief one-line description of what your app does].
+A modern Android app that helps users manage their product inventory locally.
 
 ## 🚀 Download the App
 
-[⬇️ **Download APK (v1.0)**](https://github.com/<username>/<repo>/releases/download/v1.0/MyApp.apk)
+[⬇️ **Download APK (v1.0)**](https://drive.google.com/uc?export=download&id=10k3_vjlnoIWzquKuzYMVh5S8DOV-dyLT)
 
 ## 🎬 Demo Video
 
-🎥 [**Watch Demo on YouTube**](https://youtu.be/your-demo-link)
+🎥 [**Watch Application Demo**](https://drive.google.com/file/d/1emUBhJOC9irA-aolBIMBpDHAAde4_VUr/view?usp=sharing)
 
 ## 🧩 Features
 
@@ -18,3 +18,5 @@ A modern Android app that helps users [brief one-line description of what your a
 - Delete Product
 
 ## 📸 Screenshots
+
+
