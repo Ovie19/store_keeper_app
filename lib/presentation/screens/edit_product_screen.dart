@@ -93,7 +93,7 @@ class _EditProductScreenState extends State<EditProductScreen> {
     final product = ModalRoute.of(context)!.settings.arguments as Product;
 
     return Scaffold(
-      appBar: AppBar(title: Text('Add Product')),
+      appBar: AppBar(title: Text('Edit Product')),
       body: Padding(
         padding: EdgeInsets.all(20),
         child: Form(
