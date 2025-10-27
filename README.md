@@ -1,13 +1,20 @@
+# 📱 Store Keeper Application
 
-# Store Keeper Application
+A modern Android app that helps users [brief one-line description of what your app does].
 
-A brief description of what this project does and who it's for
+## 🚀 Download the App
 
-## Screenshots
+[⬇️ **Download APK (v1.0)**](https://github.com/<username>/<repo>/releases/download/v1.0/MyApp.apk)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## 🎬 Demo Video
 
-## Demo
+🎥 [**Watch Demo on YouTube**](https://youtu.be/your-demo-link)
 
-https://appetize.io/app/b_4f5gusiibfwhnicvt5kviilxvi
+## 🧩 Features
 
+- Create new product
+- Get all product
+- Update Product
+- Delete Product
+
+## 📸 Screenshots
